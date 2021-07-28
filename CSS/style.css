@@ -1,0 +1,16 @@
+::selection {
+    color: white;
+    background: black;
+  }
+
+.uk-card {
+    background-color: #f8f8f8 !important;
+}
+
+body {
+  font-family: 'Mulish', sans-serif !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Mulish', sans-serif !important;
+}
